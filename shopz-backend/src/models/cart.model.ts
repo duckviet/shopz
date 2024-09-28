@@ -1,3 +1,4 @@
+// @/models/cart.model.ts
 import mongoose, { Schema } from "mongoose";
 import { ICart } from "./interfaces/cart.interface";
 
