@@ -1,3 +1,4 @@
+// @/models/businesses.model.ts
 import mongoose from "mongoose";
 import { IBusinesses } from "./interfaces/businesses.interface";
 
